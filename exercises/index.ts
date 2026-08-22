@@ -4,7 +4,7 @@ import { Exercise } from "@/types/exercise";
 import { bai01 } from "./bai1";
 import { bai02 } from "./bai2";
 import { bai03 } from "./Bai3";
-import { bai04 } from "./Bai4";
+import { bai04 } from "./bai4";
 import { bai05 } from "./bai5";
 import { bai06 } from "./bai6";
 import { bai07 } from "./bai7";
@@ -12,6 +12,7 @@ import { bai08 } from "./bai8";
 import { bai09 } from "./bai9";
 import { bai10 } from "./bai10";
 import { bai11 } from "./bai11";
+import { bai12 } from "./bai12";
 // import { bai05 } from "./bai05";
 // import { bai06 } from "./bai06";
 // import { bai07 } from "./bai07";
@@ -42,7 +43,7 @@ import { bai11 } from "./bai11";
 // Gom 30 bai vao 1 mang chung de truyen cho giao dien Next.js
 export const exercises: Exercise[] = [
 //   bai01, bai02, bai03, bai04, bai05,
-bai01,bai02,bai03,bai04,bai05,bai06,bai07,bai08,bai09,bai10,bai11
+bai01,bai02,bai03,bai04,bai05,bai06,bai07,bai08,bai09,bai10,bai11,bai12
 //   bai06, bai07, bai08, bai09, bai10,
 //   bai11, bai12, bai13, bai14, bai15,
 //   bai16, bai17, bai18, bai19, bai20,
