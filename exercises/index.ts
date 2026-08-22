@@ -3,7 +3,7 @@ import { Exercise } from "@/types/exercise";
 // Import toan bo 30 bai tu cac file rieng biet
 import { bai01 } from "./bai1";
 import { bai02 } from "./bai2";
-// import { bai03 } from "./bai03";
+import { bai03 } from "./Bai3";
 // import { bai04 } from "./bai04";
 // import { bai05 } from "./bai05";
 // import { bai06 } from "./bai06";
@@ -35,7 +35,7 @@ import { bai02 } from "./bai2";
 // Gom 30 bai vao 1 mang chung de truyen cho giao dien Next.js
 export const exercises: Exercise[] = [
 //   bai01, bai02, bai03, bai04, bai05,
-bai01,bai02
+bai01,bai02,bai03
 //   bai06, bai07, bai08, bai09, bai10,
 //   bai11, bai12, bai13, bai14, bai15,
 //   bai16, bai17, bai18, bai19, bai20,
