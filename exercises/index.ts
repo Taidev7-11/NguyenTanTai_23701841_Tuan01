@@ -14,6 +14,7 @@ import { bai10 } from "./bai10";
 import { bai11 } from "./bai11";
 import { bai12 } from "./bai12";
 import { bai13 } from "./bai13";
+import { bai14 } from "./bai14";
 // import { bai05 } from "./bai05";
 // import { bai06 } from "./bai06";
 // import { bai07 } from "./bai07";
@@ -45,7 +46,7 @@ import { bai13 } from "./bai13";
 export const exercises: Exercise[] = [
 //   bai01, bai02, bai03, bai04, bai05,
 bai01,bai02,bai03,bai04,bai05,bai06,bai07,bai08,bai09,bai10,bai11,bai12,
-bai13,
+bai13,bai14
 //   bai06, bai07, bai08, bai09, bai10,
 //   bai11, bai12, bai13, bai14, bai15,
 //   bai16, bai17, bai18, bai19, bai20,
